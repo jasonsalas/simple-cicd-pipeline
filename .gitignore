@@ -1,0 +1,5 @@
+# not any Windows executables
+*.exe
+
+# ...nor vim swapfiles
+*.swp
