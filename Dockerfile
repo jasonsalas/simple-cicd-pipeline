@@ -1,5 +1,5 @@
 # base image
-FROM golang:1.14.3-alpine3.12.3
+FROM golang:1.14.13-alpine3.12
 
 # application source
 RUN mkdir /app
