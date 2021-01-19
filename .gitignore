@@ -1,5 +1,9 @@
-# not any Windows executables
-*.exe
+# don't list any compiled binaries
+bin/
 
-# ...nor vim swapfiles
+# don't use the repo templates
+repo_template_files/
+
+# if for some reason vim's swapfiles persist locally, 
+# don't use them
 *.swp
