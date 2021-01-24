@@ -7,3 +7,15 @@ repo_template_files/
 # if for some reason vim's swapfiles persist locally, 
 # don't use them
 *.swp
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
